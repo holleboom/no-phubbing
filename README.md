@@ -6,13 +6,11 @@ No phubbing while phubbing
 
 
 ## Requirements
-
 1. Arduino :)
 2. Adafruit Neopixel ring (any RGB led would work)
 3. Bluetooth module/shield (tested with HC-06)
 
-## Steps
-
+## Steps to run
 1. Open Amarino on Android
 2. Add new device, search for Arduino/bluetooth, pair up
 3. Add sensor gyroscope
