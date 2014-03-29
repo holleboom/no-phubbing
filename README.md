@@ -12,7 +12,16 @@ No phubbing while phubbing
 3. Bluetooth module/shield (tested with HC-06)
 
 ## Steps
+
 1. Open Amarino on Android
 2. Add new device, search for Arduino/bluetooth, pair up
 3. Add sensor, gyroscope
 4. Connect and play!
+5. 
+
+## To-do
+- Publish Fritzing scheme
+- Publish Android eclipse
+- 
+## Questions
+Contact me @ julesholleboom.nl
