@@ -15,7 +15,7 @@ No phubbing while phubbing
 
 1. Open Amarino on Android
 2. Add new device, search for Arduino/bluetooth, pair up
-3. Add sensor, gyroscope
+3. Add sensor gyroscope
 4. Connect and play!
 
 
