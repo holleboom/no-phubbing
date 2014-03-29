@@ -19,7 +19,7 @@ No phubbing while phubbing
 
 ## To-do
 - Publish Fritzing scheme
-- Publish Android eclipse
+- Publish Android eclipse project
 
 ## More information questions?
 
