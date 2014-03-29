@@ -23,6 +23,8 @@ No phubbing while phubbing
 - Publish Fritzing scheme
 - Publish Android eclipse
 
-## Questions?
+## More information questions?
 
-Find contact details @ julesholleboom.nl
+See https://www.youtube.com/watch?v=C1QIAX5MZS8 for demo.
+
+Contact details at http://www.julesholleboom.nl
