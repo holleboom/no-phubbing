@@ -17,11 +17,12 @@ No phubbing while phubbing
 2. Add new device, search for Arduino/bluetooth, pair up
 3. Add sensor, gyroscope
 4. Connect and play!
-5. 
+
 
 ## To-do
 - Publish Fritzing scheme
 - Publish Android eclipse
-- 
-## Questions
-Contact me @ julesholleboom.nl
+
+## Questions?
+
+Find contact details @ julesholleboom.nl
